@@ -15,6 +15,7 @@
     </head>
     <body>
         <form> 
+            <title>Hello</title>
             <h1>FireBase Phone Authentication</h1>
             <div class="formcontainer">
                 <hr/>
